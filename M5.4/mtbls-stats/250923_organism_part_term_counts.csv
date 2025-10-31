@@ -1,0 +1,741 @@
+organism_part_term,count
+feces,612
+shoot,488
+leaf,447
+blood serum,413
+Whole Organism,389
+phyllosphere,365
+blood plasma,345
+blank,191
+mixture,156
+root,153
+exometabolome,139
+solvent,128
+urine,120
+whole organism,103
+liver,102
+rosette leaf,98
+Follicular fluid,89
+Whole Culture Extract,78
+fruit,75
+Wine,67
+seed,65
+endometabolome,64
+pure substance,60
+culture supernatant,60
+whole plant,48
+brain,47
+milk,44
+serum,37
+Whole organism,36
+Culture media,36
+conditioned,35
+lens,34
+exocarp,32
+breast cancer cell,31
+mesocarp,27
+placenta,27
+Growth Medium,26
+heart,25
+flower,24
+hemolymph,23
+rosette,22
+berry,21
+kidney,21
+blood,20
+lung,20
+intracellular,20
+stem,19
+extracellular matrix,19
+aerial part,18
+exudate,18
+Serum,18
+caryopsis,17
+water,17
+Pooled Sample,17
+shoot system,16
+Mixture,16
+Exudate,15
+venom,15
+gill filament,14
+Urine,14
+intestinal content,13
+matrix,13
+Blank,12
+cerebrospinal fluid,12
+Solvent,12
+saliva,11
+adipose tissue,11
+cecal content,11
+root exudate,11
+colon,11
+RAW-264.7 cell,10
+above-ground gametophyte without roots,10
+macrophage,10
+Colon,10
+HEK-293 cell,9
+HeLa cell,9
+Hep-G2 cell,9
+MCF-7 cell,9
+muscle,9
+neutrophil,9
+hippocampus,9
+HT-29 cell,8
+gill,8
+brown adipose tissue,8
+biofilm,8
+Suspension Culture,8
+hepatocyte,7
+erythrocyte,7
+seedling,7
+leaf lamina,7
+rhizome,7
+MDA-MB-231 cell,7
+Aqueous Humor,7
+headspace,7
+peritoneal macrophage,7
+phosphate buffered saline,7
+bark,7
+Extracellular Vesicle,7
+ovary,7
+Hepa-RG cell,6
+head,6
+cerebral cortex,6
+THP-1 cell,6
+Vero cell,6
+amniotic fluid,6
+needle,6
+Buffer,6
+Whole cell,6
+Calu-3 cell,6
+hESC cell,6
+small cell lung cancer cell line,6
+cotyledon,5
+Bronchoalveolar Lavage Fluid,5
+pericarp,5
+EFO:whole organism,5
+skeletal muscle,5
+cecum,5
+spleen,5
+flower bud,5
+bud,5
+whole body,5
+mantle,5
+bloodstream form,5
+CHO-K1 cell,5
+embryo,5
+bone marrow,5
+Pooled sample,5
+experimental blank,5
+fibroblast,5
+Blood plasma,5
+cartilage,5
+mammary epithelial cell,5
+Exometabolome,5
+SPME fibre,5
+Endothelial Cells,5
+plasma,5
+U251,5
+nasal mucosa,5
+cell culture,5
+pulp,5
+longissimus thoracis,5
+shoot apical meristem,4
+A-549 cell,4
+hypocotyl,4
+gastrocnemius,4
+sputum,4
+testis,4
+CACO-2 cell,4
+left ventricle,4
+vitreous humor,4
+Chemical,4
+white adipose tissue,4
+ruminal fluid,4
+SH-SY5Y cell,4
+larva,4
+MEF cell,4
+synovia,4
+bone marrow-derived macrophage,4
+Gastric Tissue,4
+Whole body,4
+mycelium,4
+Reference compound mix,4
+flag leaf,4
+Breath,4
+choanosome,4
+Standard,4
+leaf epidermis,4
+colonal content,4
+culture medium,4
+HEK-293T cell,4
+3T3-L1 cell,4
+whole tissue,4
+RNA (poly(A)),4
+polyp,4
+fetal serum,3
+NIH-3T3 cell,3
+right ventricle,3
+root hair,3
+thorax,3
+abdomen,3
+stomach,3
+SW-620 cell,3
+SW-480 cell,3
+HCT-116 cell,3
+Colo-205 cell,3
+cell suspension culture,3
+juvenile leaf,3
+foot,3
+peripheral blood mononuclear cell,3
+intracellular part,3
+quadriceps,3
+xylem,3
+Recombinant Protein,3
+ileal content,3
+hepatopancreas,3
+intestine,3
+uterus,3
+subcutaneous adipose tissue,3
+cervical mucus,3
+acetonitrile,3
+Grape,3
+spikelet,3
+cell lysate,3
+Lung,3
+Pancreas,3
+Brain,3
+Liver,3
+Cheese,3
+Cell lysate,3
+conidium,3
+jejunal content,3
+forelimb,3
+wood,3
+wing,3
+sebum,3
+RCC 786-O cell,3
+no injection,3
+adipocyte,3
+U-87MG cell,3
+Medium,3
+skin,3
+ileum,3
+drink,3
+pancreas,3
+megakaryocyte,3
+dentin,3
+OVCAR-8,3
+gonad,3
+hematopoietic stem cell,3
+leukocyte,2
+dorsal skin,2
+C2C12 cell,2
+renal proximal tubule,2
+ovarian serous adenocarcinoma cell line,2
+A2780cisR cell,2
+A2780 cell,2
+bladder,2
+JURKAT cell,2
+DLD-1 cell,2
+U2-OS cell,2
+soleus,2
+diaphragm,2
+callus,2
+N6-Methyl-2'-deoxyadenosine,2
+glandular trichome,2
+plant ovary,2
+media,2
+MCF-10A cell,2
+seminal plasma,2
+breast,2
+standard,2
+Renal Tubular Epithelial Cell,2
+mIMCD-3 cell,2
+embryonic fibroblast,2
+Head,2
+Leaves,2
+extratracellular,2
+proneural glioma stem cell,2
+mesenchymal glioma stem cell,2
+Culture Media,2
+vascular leaf,2
+Seedlings without root,2
+Diffuse Large B Cell Lymphoma,2
+Whole Cell,2
+MiaPaCa-2 cell,2
+KHM1106 cell,2
+PANC-1 cell,2
+CAPAN-2 cell,2
+retina,2
+sample preparation blank,2
+foreskin fibroblast,2
+Blood Plasma,2
+spermatozoon,2
+renal tubule epithelium,2
+UMNSAH,2
+DF-1 Cell,2
+Wheat (whole grain),2
+Retina,2
+Erythrocytes,2
+Beer,2
+solvent blank,2
+Pure substance,2
+Platelet,2
+Blood platelet,2
+Acetonitrile:H2O (1:3),2
+cerebellum,2
+Testis,2
+water surface,2
+cheese product,2
+Synaptic cleft,2
+venous blood,2
+umbilical cord blood,2
+LCMS-grade water,2
+Standard mixture,2
+whey,2
+Fibroblasts,2
+Umbilical Blood,2
+waste water,2
+rumen fluid,2
+CD8-Positive T-Lymphocyte,2
+leg,2
+Extract,2
+Cell Pellet,2
+Corneal Epithelium,2
+anxa,2
+osteocyte,2
+Authentic Standards,2
+juice,2
+Perilymph,2
+Sweat,2
+Enzyme,2
+U-251MG cell,2
+Human induced pluripotent stem cell-derived cardiomyocyte,2
+sweat,2
+A-172 cell,2
+leaf nodule,2
+sausage,2
+Tempeh,2
+leaf sheath,2
+rumen,2
+Brush Cell,2
+INS-1 cell,2
+photoreceptor outer segment layer,2
+gametocyte,2
+SNU-368 cell,2
+Bone Trabeculae,2
+Cortical Bone,2
+periodontal ligament cell,2
+gingiva,2
+esophageal mucosa,2
+uterine fluid,2
+uterine cervix,2
+perfusate,2
+CTX TNA2 cell,2
+semen,2
+HSC-3 cell,2
+glioma cell line,2
+inflorescence,2
+bone marrow derived macrophages,2
+preadipocyte,2
+thallus,2
+Bronchoalveolar lavage fluid,2
+Rhzosphere soil,2
+AGS cell,2
+mesophyll,2
+regulatory T-lymphocyte,2
+Algae,2
+aorta,2
+true leaf,2
+786-0,2
+follicular fluid,2
+pancreatic cancer cell line,2
+corpus callosum,2
+Immature Sertoli cell,2
+hindgut content,2
+blood vessel,2
+Tissue,2
+epididymis,1
+flower stalk,1
+seed vessel,1
+S9 cell,1
+SK-N-BE(2) cell,1
+spike,1
+wax ester,1
+twig,1
+leg muscle,1
+Leg Skin,1
+HaCaT cell,1
+prostate gland ventral lobe,1
+hydroponic plant culture media,1
+heart ventricle,1
+Bacillus subtilis,1
+Streptomyces coelicolor,1
+Colorectal adenocarcinoma,1
+Mouse Kidney,1
+Mouse Pancreas,1
+oral squamous cell carcinoma,1
+nasal cavity,1
+bronchial mucosa,1
+Seed,1
+Germinated or sprouted seed,1
+Commercial glucose,1
+Artificial glucose mixture,1
+RAMOS (RA.1) cell,1
+microbial mat,1
+primary root,1
+trachea,1
+ARPE-19 cell,1
+IOBA-NHC cell,1
+lymphoblast,1
+HCT-8 cell,1
+KM-12 cell,1
+LS-174T cell,1
+LS-180 cell,1
+T-84 cell,1
+SW-1398 cell,1
+SW1463 cell,1
+SW-48 cell,1
+SW-948 cell,1
+SW-1116 cell,1
+WiDr cell,1
+Co-115 cell,1
+LoVo cell,1
+Colo-320 cell,1
+CCL-218 cell,1
+C-10 cell,1
+LS411N cell,1
+HCT-15 cell,1
+RKO cell,1
+renal tubule,1
+simulated data,1
+2'-deoxyadenosine,1
+liver cancer cell,1
+pre-B-lymphocyte,1
+colorectal adenocarcinoma cell,1
+egg,1
+pooled metabolome,1
+embryonic stem cell,1
+simulated squares,1
+MTBLS620,1
+CACO-2,1
+silique,1
+stem leaf,1
+stigma,1
+sepal,1
+corolla limb,1
+plant pedicel,1
+nectary,1
+corolla tube,1
+anther,1
+filament,1
+style,1
+siphon,1
+whole body minus foot,1
+digestive gland,1
+HCC-1937 cell,1
+leaf midvein,1
+Body - 2 posterior lantern segments excised,1
+spermatophore,1
+nuptial gift,1
+esophagus,1
+grape must,1
+HeLa-SHMT2-shSHMT2 cell,1
+mammary gland,1
+glycogen,1
+HUVEC cell,1
+colorectal adenocarcinoma,1
+hepatoma cell,1
+pluripotent stem cell-derived cardiomyocyte,1
+Olive Oil,1
+ethanol,1
+yogurt food product,1
+cornea,1
+Sake,1
+abdominal skin,1
+cardiomyocyte cell line,1
+root tip,1
+leaf tip,1
+blank value,1
+SK-N-AS cell,1
+breast invasive ductal carcinoma cell,1
+non-malignant breast legion,1
+plant crown,1
+stem internode,1
+mitochondrion,1
+Mitochondria-associated Endoplasmic Reticulum Membrane,1
+mammary gland tumor cell,1
+Cancer-Associated Fibroblasts,1
+skin fibroblast cell line,1
+telencephalon,1
+MOLT-4 cell,1
+T-24 cell,1
+K-562 cell,1
+SK-N-SH cell,1
+HL-60 cell,1
+U-937 cell,1
+SK-HEP-1 cell,1
+A-431 cell,1
+tail,1
+lung fibroblast cell line,1
+kimchi,1
+extracellular,1
+skeletal muscle organ,1
+multiple myeloma cell,1
+renal cortex,1
+renal medulla,1
+hTERT-RPE1 cell,1
+Embryonic Cell,1
+skeletal muscle tissue,1
+islet of Langerhans,1
+Prothorax plus head,1
+Mesothorax through the 2 most anterior abdominal segments,1
+Posterior 3 abdominal segments,1
+Body minus 2 posterior segments,1
+epithelial cell,1
+Hemicryptophyte,1
+corpus striatum,1
+kidney cell line,1
+umbilical vein endothelial cell line,1
+control,1
+Quality Control,1
+Caecum,1
+skin fibroblast,1
+Lung adenocarcinoma,1
+Not applicable,1
+extracellular space of host,1
+JURKAT E-6.1 cell,1
+MOLT-16 cell,1
+scape,1
+bulb,1
+fruit body,1
+BTO:HPAF-2 cell,1
+BTO:MiaPaCa-2 cell,1
+BTO:PANC-1 cell,1
+DMEM (medium),1
+HPAF-2 cell,1
+glioblastoma cell,1
+lymphatic endothelial cell,1
+Lolium perenne,1
+Dactylis glomerata,1
+Ranunculus acris,1
+Plantago lanceolata,1
+Arrhenatherum elatius,1
+Poa pratensis,1
+Alopecurus pratensis,1
+Achillea millefolium,1
+Galium verum,1
+Galium mollugo,1
+Oligodendroglioma Cell,1
+endocarp,1
+NCI-H1299 cell,1
+duodenum aspirate,1
+residue,1
+caffeine,1
+Cotinine,1
+theophylline,1
+Arbutin,1
+theobromine,1
+nicotine,1
+anabasine,1
+INS-1 823,1
+13 cell,1
+Peripheral Blood Mononuclear Cell,1
+multicellular organism,1
+Subcutaneous Adipose Tissue,1
+leaf young,1
+podocyte,1
+collecting duct,1
+taproot,1
+Mobile phase,1
+epidermis,1
+Underlying Water,1
+Sea Surface Microlayer,1
+Water,1
+alkane,1
+ExtractionBlank,1
+CHO Cells,1
+plant ear,1
+standard whole organism,1
+aortic valve,1
+Ribonucleic Acid,1
+Erythrocyte,1
+hexane,1
+neural stem cell,1
+brain tumor stem cell GPD1 KO,1
+brain tumor stem cell,1
+guard cell,1
+vastus lateralis,1
+exfoliated cervical cell,1
+electronic,1
+NMR buffer,1
+methyl tert-butyl ether,1
+ACHN cell,1
+Whole Blood,1
+pigmented epithelial cell,1
+BTO:seed,1
+Hippocampus,1
+Cerebral Cortex,1
+Feces,1
+Adrenal gland,1
+Skeletal muscle,1
+Spleen,1
+Bladder,1
+Ovary,1
+Kidney,1
+Duodenum,1
+Cerebellum,1
+reference compound mix,1
+Heart,1
+Cerebrum,1
+effluent,1
+acetone,1
+crown root,1
+lateral root,1
+Conditioned culture medium,1
+Homo sapiens,1
+Rotator cuff,1
+P2,1
+Synaptosome,1
+Small metabolite extract,1
+buffer,1
+Culture Supernatant S. salivarius,1
+50% v,1
+v acetonitrile,1
+QC,1
+BTO:heart,1
+BTO:kidney,1
+-,1
+internal standard,1
+extraction buffer,1
+yeast extract,1
+Pool,1
+BTO:pitcher,1
+pitcher,1
+cytoplasmic membrane-bounded vesicle,1
+milk (fermented),1
+Amino acid mixture,1
+Cecum,1
+kefir,1
+Standard solutions,1
+petal,1
+extraction solution,1
+propan-2-ol,1
+not applicable,1
+microglia,1
+isorhamnetin 3-O-robinobioside,1
+kaempferol 3-O-rutinoside,1
+isorhamnetin 3-O-rutinoside,1
+7-hydroxyflavone,1
+kaempferol 3-O-gentiobioside,1
+kaempferol 3-O-robinobioside,1
+kaempferol 3-O-glucosyl-(1→6)-galactoside,1
+quercetin 3-O-rutinoside,1
+methanol,1
+Bean,1
+LB medium,1
+epididymal white adipose tissue,1
+abdominal adipose tissue,1
+Organoid,1
+Microsomes,1
+extravillous trophoblast,1
+decidua,1
+HAP-1,1
+supragingival dental plaque,1
+riboflavin,1
+Nucleus,1
+Intracellular,1
+B-lymphocyte,1
+ambient air,1
+stink gland secretions,1
+cuticular hydrocarbons,1
+wild type,1
+phosphate-buffered saline solution,1
+pure Substance,1
+growth anomaly lesion,1
+Breast Milk,1
+PC-3M cell,1
+renal proximal tubule epithelial cell,1
+midbrain,1
+posterior,1
+fat body,1
+gut,1
+head kidney,1
+prostate gland dorsolateral lobe,1
+body,1
+jejunum,1
+Experimental Blank,1
+bile,1
+rectum,1
+duodenum,1
+Plasma,1
+retention index,1
+hindgut,1
+frass,1
+seed coat,1
+kernel,1
+glioma,1
+pollen,1
+PC-3 cell,1
+blood cell,1
+Embryo,1
+Very Low Density Lipoprotein,1
+Jump-In-T-REx HEK293 cell,1
+tuber,1
+immortalized bone marrow-derived macrophage,1
+K7M2 cell,1
+AE17 cell,1
+Lewis lung carcinoma cell,1
+MDA-MB-468 cell,1
+ZR-75-1 cell,1
+nasopharynx,1
+glioma stem cell,1
+U-373MG cell,1
+trigeminal nerve,1
+induced pluripotent stem cell,1
+MC-38 cell,1
+Blood Agar Growth Medium,1
+SCC-13 cell,1
+renal carcinoma,1
+Renal Tissue,1
+HK-2 cell,1
+dorsal fin,1
+Quality control,1
+eye,1
+hypha,1
+virion,1
+HNE buffer,1
+F98 cell,1
+U-87 MG cell,1
+9L,1
+lacZ cell,1
+U-251 MG cell,1
+KGN cell,1
+diets,1
+NCI-H295R cell,1
+natural killer cell,1
+WI-38 cell,1
+Supernatant,1
+Ribosomal RNA,1
+body surface washing,1
+forebrain,1
+monocyte,1
+CWR22-Rv1 cell,1
+NRK-49F cell,1
+Injection,1
+Lipid Standard Mix,1
+egg yolk,1
+lipid extraction,1
+genomic RNA,1
+subgenomic RNA,1
+G55 cell,1
+786-O cell,1
+Pool sample,1
+Panc 10.05 cell,1
+pancreatic cancer cell,1
+"""root",1
+"seed""",1
+chemical substance,1
+IPEC-J2 cell,1
+Helicobacter pylori 26695,1
