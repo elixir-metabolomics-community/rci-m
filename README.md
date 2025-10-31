@@ -21,3 +21,47 @@ The RCI-M project is one of 12 projects funded by the [**ELIXIR Science Tier Ope
 Food and Nutrition, Galaxy, Metabolomics, Proteomics, Research Data Management, Single-Cell Omics, Systems Biology, Toxicology
 ### Nodes involved:
 ELIXIR Czech Republic, ELIXIR Germany, ELIXIR Italy, ELIXIR Spain, ELIXIR France, ELIXIR Netherlands, ELIXIR Sweden, ELIXIR UK, EMBL-EBI
+
+## RCI-M: A framework for boosting the semantic metabolomics
+>A set of tools, guides, resources to make metabolomics more reproducible, more comparable and more integrable.
+
+### Standards
+	ISA
+	MzTab-M
+	Biosample checklist for metabolomics
+
+### Resources
+	MetaboLigths
+	BioSamples
+	OLS
+	
+### Guidelines
+	MTBLS Study submission
+	Reporting recommandations
+	Biological resources and ontologies catalogue (M5.4)
+	
+#### Biological resources and ontologies catalogue (M5.4)
+The RCI-M project team has compiled a list of useful European resources to help biologists, bioinformaticians and chemists semantically describe a sample or the factors involved in a study, thereby facilitating, for example, the submission of studies to the MetaboLights repository or making new information systems interoperable. This stage of the project has resulted in a list of the main useful and maintained resources and an inventory of relevant ontologies or controlled vocabularies, selected and grouped by category from the NCBO BioPortal. Based on all the public studies available in the European EBI-MetaboLights repository, a second piece of work was carried out. It compiles a list of the most commonly used ontologies to describe information relating to the “part of the organism”, the “organism” and the “type of sample”.
+
+Related Document: [Biological resources and ontologies catalogue.md](./M5.4/Biological_resources_and_ontologies_catalogue.md)
+
+### Training materials
+	AHM-2025 : Ontologies workshop
+	WP2 survey
+	WP3 survey
+
+### Datasets
+	MTBLS model studies
+
+### Organisations
+	EBI MetaboLigths
+	EBI-BioSamples
+	EBI-Pride
+	
+	The Metabolomics Society and the MetFAIR task group
+	
+	RDA - MOMSI WG
+	
+	FR-MetaboHUB
+	
+
