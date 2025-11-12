@@ -110,6 +110,14 @@ The RCI-M project team has also compiled a list of useful ontological resources,
   + [BioPortal Category Taxonomic Classification](#bioportal-category-taxonomic-classification)
   + [BioPortal Category Yeast](#bioportal-category-yeast)
 
+Terms definition used in following tables:
+
+  * **ID**: A unique identifier used to refer to the ontology in BioPortal. Typically a short abbreviation of the full ontology name made up of capitalized initials or key terms. Example: SNOMEDCT for Systematized Nomenclature of Medicine – Clinical Terms.
+  * **Description**: A short summary describing the purpose and scope of the ontology, giving users a quick understanding of what the ontology covers.
+  * **Status**: The development stage of the ontology in BioPortal, which can be alpha, beta, production, or retired, indicating how finalized or stable the ontology is.
+  * **Version**: BioPortal maintains multiple versions of each ontology showing the history of releases. Each version has associated metadata such as release date and format, and the latest version is accessible for browsing and download.
+  * **Categories**: Metadata categories or domains assigned by ontology administrators to classify the ontology according to relevant subject areas.
+
 ## BioPortal Category "Anatomy"
 [Back to BioPortal Category list](#bioportal-categories-list)
 
